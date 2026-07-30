@@ -35,18 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="188" src="https://i.pinimg.com/originals/41/34/b9/4134b9af353c0f8e528cc1a0357d2cd9.gif"  />
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="left" height="150" src="https://i.makeagif.com/media/12-09-2022/_BJmCS.gif"  />
-
-###
-
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/raka-mahendra/raka-mahendra/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
