@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Raka Mahendra and I'm a Creative Developer, UI Designer, and Open Source Enthusiast</h2>
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/c2f9fc61-29e5-4fdc-8e7b-9d4d216e0c60" /><img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/01a368fb-6633-4553-a968-805800d8f35c" /><h2 data-importer="text" align="left">Hi 👋! My name is Raka Mahendra and I'm a Creative Developer, UI Designer, and Open Source Enthusiast</h2>
 
 ###
 
-<img data-importer="image" align="right" width="115" height="115" src="https://i.pinimg.com/originals/44/8d/90/448d9026b86a5dfcf3c97f0a49b40593.gif"  />
+<img data-importer="image" align="right" height="115" src="https://i.makeagif.com/media/12-09-2022/_BJmCS.gif"  />
 
 ###
 
@@ -32,25 +32,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/raka-mahendra/raka-mahendra/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/raka-mahendra/raka-mahendra/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raka-mahendra/raka-mahendra/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raka-mahendra/raka-mahendra/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raka-mahendra/raka-mahendra/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
