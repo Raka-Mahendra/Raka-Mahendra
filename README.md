@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="115" src="https://i.pinimg.com/originals/70/99/c3/7099c311f7bff797ef4f377f9aa165c2.gif"  />
+<img data-importer="image" align="right" height="100" src="https://i.pinimg.com/originals/70/99/c3/7099c311f7bff797ef4f377f9aa165c2.gif"  />
 
 ###
 
