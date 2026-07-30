@@ -22,6 +22,8 @@
   <img src="https://cdn.simpleicons.org/tauri/FFC131" height="30" alt="tauri logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/cf/20251103223215%21Affinity_%28App%29_Logo.svg/120px-Affinity_%28App%29_Logo.svg.png" height="30" alt="affinity logo"  />
 </div>
 
 ###
