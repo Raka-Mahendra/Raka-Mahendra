@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/c2f9fc61-29e5-4fdc-8e7b-9d4d216e0c60" /><img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/01a368fb-6633-4553-a968-805800d8f35c" /><h2 data-importer="text" align="left">Hi 👋! My name is Raka Mahendra and I'm a Creative Developer, UI Designer, and Open Source Enthusiast</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Raka Mahendra and I'm a Creative Developer, UI Designer, and Open Source Enthusiast</h2>
 
 ###
 
