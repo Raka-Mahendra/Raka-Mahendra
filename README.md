@@ -1,5 +1,5 @@
 <h2>
-Hi 👋! My name is Raka Mahendra. I'm a software developer and graphic designer passionate about UI design and open source.
+Hi 👋! My name is Raka Mahendra. I'm a software developer and graphic designer passionate about UI design, desktop applications, and open source.
 </h2>
 
 ###
